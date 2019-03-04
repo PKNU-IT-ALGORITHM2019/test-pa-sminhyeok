@@ -1,3 +1,3 @@
-알고리즘 105분반
+Algorithm 105 class
 
-201412700 성민혁
+201412700 Seong Minhyeok
