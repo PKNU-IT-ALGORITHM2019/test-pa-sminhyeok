@@ -1,2 +1,3 @@
-# Test-PA
-It's a repository just for test.
+알고리즘 105분반
+
+201412700 성민혁
